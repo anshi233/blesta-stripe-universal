@@ -17,7 +17,7 @@ $lang['StripeUniversal.!error.payment_expired'] = 'Payment gateway returns that 
 $lang['StripeUniversal.!error.metadata.missing'] = 'Response is missing metadata, please open a support ticket for this transaction.';
 $lang['StripeUniversal.!error.metadata.missing_client_id'] = 'Payment gateway returns invalid metadata, please open a support ticket for this transaction.';
 
-$lang['StripeUniversal.name'] = 'Stripe Universal';
+$lang['StripeUniversal.name'] = 'Stripe Universal (Alipay)';
 $lang['StripeUniversal.description'] = 'Uses Stripe Checkout to process payments.';
 
 // Settings
